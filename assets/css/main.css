@@ -4701,3 +4701,13 @@ input, select, textarea {
 		}
 
 	}
+	.badges {
+		display: flex;
+		justify-content: space-between;
+	  }
+	  
+	  .badges img {
+		width: 130px; /* adjust the width as needed */
+		height: 130px; /* adjust the height as needed */
+		margin: 10px; /* adjust the margin as needed */
+	  }
