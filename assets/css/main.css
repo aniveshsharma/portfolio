@@ -4703,7 +4703,7 @@ input, select, textarea {
 	}
 	.badges {
 		display: flex;
-		justify-content: space-between;
+		justify-content: space-around;
 	  }
 	  
 	  .badges img {
